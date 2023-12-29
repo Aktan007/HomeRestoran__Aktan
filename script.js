@@ -1,3 +1,4 @@
+//иницализация
 new Swiper('.review__slider', {
     autoplay:{
         delay: 4000

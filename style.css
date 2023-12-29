@@ -611,3 +611,57 @@ body::-webkit-scrollbar {
   justify-content: center;
   margin-top: 15px;
 }
+
+/* ================================================================================================== */
+
+.galery {
+  margin-top: 100px;
+  margin-bottom: 60px;
+}
+
+.galery__container {
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.galery__title-01 {
+  color: #000;
+  font-family: Tinos;
+  font-size: 54px;
+  font-weight: 400;
+  line-height: normal;
+  text-align: center;
+}
+
+.galery__text-color {
+  color: #d67e35;
+}
+
+.galery__left {
+  margin-top: 60px;
+}
+
+.galery__two-images {
+  margin-top: 28px;
+}
+
+.galery__img-02 {
+  margin-right: 26.50px;
+}
+
+.galery__all-images {
+  display: flex;
+}
+
+.galery__two-images-02 {
+  margin-top: 60px;
+}
+
+.galery__images-02 {
+  margin-left: 25px;
+}
+
+.galery__img-04 {
+  margin-top: 26.50px;
+}
