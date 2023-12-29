@@ -665,3 +665,43 @@ body::-webkit-scrollbar {
 .galery__img-04 {
   margin-top: 26.50px;
 }
+
+/* ================================================================================================== */
+
+.kitchener {
+  margin-bottom: 100px;
+}
+
+.kitchener__container {
+  max-width: 1110px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.kitchener__title-tetx-01 {
+  color: #000;
+  font-size: 54px;
+  font-family: Tinos;
+  font-weight: 400;
+}
+
+.kitchener__span-color {
+  color: #d67e35;
+  font-size: 54px;
+  font-family: Tinos;
+  font-weight: 400;
+}
+
+.kitchener__title {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.kitchener__images {
+  display: flex;
+}
+
+.kitchener__img-01 {
+  margin-right: 30px;
+}
